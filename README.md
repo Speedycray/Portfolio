@@ -59,6 +59,9 @@ In this project, I used the WiFi Pineapple for wireless pentesting.
 * **Result:**
 * Kicked off everyone from the network and reassociated them to the WiFi Pineapple to be able to capture credentials in the captive portal.
 
+
+<!---
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -80,3 +83,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+-->
