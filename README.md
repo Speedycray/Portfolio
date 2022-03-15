@@ -13,7 +13,7 @@
 * [CompTIA Security+ 2021-2024](https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png)
 * [Basic Computer Skills 2021](https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA)
 
-# [Project 1: Log4J](http://youtube.com/dataprofessor)
+# [Project 1: Java's Log4J](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
 ![alt text](pexels-pranjall-kumar-8464466.jpg)
 
 
@@ -25,10 +25,19 @@ Photo by
    Pexels
  </a>
  
- This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+In this project, I hosted an exploit through a webserver with python3, Set up an LDAP listener to point to that server/exploit, and exploited Log4J's JNDI feature within Apache Solr to obtain a reverse powershell from the victim.
+* **Reources:**
+*  [TryHackMe](https://tryhackme.com/room/solar)
+*  [Installing Apache Solr](https://www.youtube.com/watch?v=Km81Zsd7Dx8)
+*  [John Hammond Log4J video](https://www.youtube.com/watch?v=7qoPDq41xhQ&t=967s)
+* **Skills:** 
+*  Set up attacker (Kali) and (Windows) victim virtual machines
+*  Installed older version of Java
+*  Obfuscate and utilize reverse powershell one-liner
+*  Installed Java builder Maven
+*  Set up Netcat listener for reverse shell session
+* **Results:**
+*  Able to open any application through victim's 
 
 # [Project 2: Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
 ![alt text](phoenix-han-ZS_RypKo9sk-unsplash.jpg)
