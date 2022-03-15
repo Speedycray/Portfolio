@@ -10,7 +10,7 @@
 # Certifications
 * CompTIA Network+ expected 2022 
 * [Cyber Security Professional](https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ)
-* ![CompTIA Security+ 2021-2024](Security+.png)
+* [CompTIA Security+ 2021-2024](https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png)
 * [Basic Computer Skills 2021](https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA)
 
 # [Project 1: Log4J](http://youtube.com/dataprofessor)
