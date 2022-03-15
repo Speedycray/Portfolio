@@ -2,8 +2,16 @@
 *Cybersecurity Engineer | Aspiring Pentester*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Cyber Defense Professional Certificate, *University of Central Florida*, 2021-2022
+* Bachelors of Science (Computer Science), *University of Central Florida*, 2019-2021
+* Minor (Secure Computing and Networking), *University of Central Florida*, 2019-2021
+* Associates (Computer Science), *Valencia College*, 2017-2019
+
+# Certifications
+* CompTIA Network+ expected 2022 
+* Cyber Security Proefessional
+* CompTIA Security+ 2021-2024
+* [Basic Computer Skills 2021](http://youtube.com/dataprofessor)
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![alt text](pexels-pranjall-kumar-8464466.jpg)
