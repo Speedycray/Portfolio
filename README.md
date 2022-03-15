@@ -6,14 +6,30 @@
 * Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+![alt text](pexels-pranjall-kumar-8464466.jpg)
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
+
+Photo by 
+ <a href="https://www.pexels.com/@pranjall-kumar-150768">
+   Photo by Pranjall Kumar
+ </a> on 
+ <a href="https://www.pexels.com/photo/coffee-beans-in-white-ceramic-mug-8464466/">
+   Pexels
+ </a>
+ 
+ This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+![alt text](phoenix-han-ZS_RypKo9sk-unsplash.jpg)
 
+Photo by 
+  <a href="https://unsplash.com/@phienix_han?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Phoenix Han</a> 
+  on 
+  <a href="https://unsplash.com/s/photos/pineapple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+ 
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
