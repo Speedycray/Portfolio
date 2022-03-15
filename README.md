@@ -33,13 +33,15 @@ In this project, I hosted an exploit through a webserver with python3, Set up an
 * **Skills:** 
 *  Set up attacker (Kali) and (Windows) victim virtual machines
 *  Installed older version of Java
-*  Obfuscate and utilize reverse powershell one-liner
+*  Obfuscated and utilized reverse powershell one-liner
 *  Installed Java builder Maven
 *  Set up Netcat listener for reverse shell session
 * **Results:**
-*  Able to open any application through victim's 
+*  Able to open any application through victim's command prompt
+*  Opened reverese powershell in attacker machine
+*  Implemented [Threatlocker](https://www.threatlocker.com/) security software to stop the reverse shell
 
-# [Project 2: Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
+# [Project 2: WiFi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
 ![alt text](phoenix-han-ZS_RypKo9sk-unsplash.jpg)
 
 Photo by 
@@ -47,10 +49,15 @@ Photo by
   on 
   <a href="https://unsplash.com/photos/ZS_RypKo9sk">Unsplash</a>
  
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+In this project, I used the WiFi Pineapple for wireless pentesting.
+* **Resources:**
+* [WiFi Pineapple Documentation](https://docs.hak5.org/wifi-pineapple/)
+* **Input:**
+* Set up a WiFi Pineapple
+* Learned about deauthentication and dissassociation
+* Learned about associating a client using PineAP
+* **Result:**
+* Kicked off everyone from the network and reassociated them to the WiFi Pineapple to be able to capture credentials in the captive portal.
 
 ### Markdown
 
