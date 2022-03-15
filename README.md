@@ -38,9 +38,9 @@ In this project, I hosted an exploit through a webserver with python3, Set up an
 *  Installed Java builder Maven
 *  Set up Netcat listener for reverse shell session
 
-## **Results:**
+### **Results:**
 *  Able to open any application through victim's command prompt
-*  Opened reverese powershell in attacker machine
+*  Opened reverse powershell in attacker machine
 *  Implemented [Threatlocker](https://www.threatlocker.com/) security software to stop the reverse shell
 
 # [Project 2: WiFi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
