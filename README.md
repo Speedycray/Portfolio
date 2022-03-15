@@ -26,20 +26,20 @@ Photo by
  </a>
  
 In this project, I hosted an exploit through a webserver with python3, Set up an LDAP listener to point to that server/exploit, and exploited Log4J's JNDI feature within Apache Solr to obtain a reverse powershell from the victim.
-* **Reources:**
-**  [TryHackMe](https://tryhackme.com/room/solar)
-**  [Installing Apache Solr](https://www.youtube.com/watch?v=Km81Zsd7Dx8)
-**  [John Hammond Log4J video](https://www.youtube.com/watch?v=7qoPDq41xhQ&t=967s)
-* **Skills:** 
-**  Set up attacker (Kali) and (Windows) victim virtual machines
-**  Installed older version of Java
-**  Obfuscated and utilized reverse powershell one-liner
-**  Installed Java builder Maven
-**  Set up Netcat listener for reverse shell session
-* **Results:**
-**  Able to open any application through victim's command prompt
-**  Opened reverese powershell in attacker machine
-**  Implemented [Threatlocker](https://www.threatlocker.com/) security software to stop the reverse shell
+## **Reources:**
+*  [TryHackMe](https://tryhackme.com/room/solar)
+*  [Installing Apache Solr](https://www.youtube.com/watch?v=Km81Zsd7Dx8)
+*  [John Hammond Log4J video](https://www.youtube.com/watch?v=7qoPDq41xhQ&t=967s)
+## **Skills:** 
+*  Set up attacker (Kali) and (Windows) victim virtual machines
+*  Installed older version of Java
+*  Obfuscated and utilized reverse powershell one-liner
+*  Installed Java builder Maven
+*  Set up Netcat listener for reverse shell session
+## **Results:**
+*  Able to open any application through victim's command prompt
+*  Opened reverese powershell in attacker machine
+*  Implemented [Threatlocker](https://www.threatlocker.com/) security software to stop the reverse shell
 
 # [Project 2: WiFi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
 ![alt text](phoenix-han-ZS_RypKo9sk-unsplash.jpg)
@@ -50,13 +50,13 @@ Photo by
   <a href="https://unsplash.com/photos/ZS_RypKo9sk">Unsplash</a>
  
 In this project, I used the WiFi Pineapple for wireless pentesting.
-* **Resources:**
+## **Resources:**
 * [WiFi Pineapple Documentation](https://docs.hak5.org/wifi-pineapple/)
-* **Input:**
+## **Input:**
 * Set up a WiFi Pineapple
 * Learned about deauthentication and dissassociation
 * Learned about associating a client using PineAP
-* **Result:**
+## **Result:**
 * Kicked off everyone from the network and reassociated them to the WiFi Pineapple to be able to capture credentials in the captive portal.
 
 
