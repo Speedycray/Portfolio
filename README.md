@@ -9,9 +9,9 @@
 
 # Certifications
 * CompTIA Network+ expected 2022 
-* Cyber Security Proefessional
+* [Cyber Security Proefessional](https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ)
 * CompTIA Security+ 2021-2024
-* [Basic Computer Skills 2021](http://youtube.com/dataprofessor)
+* [Basic Computer Skills 2021](https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA)
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![alt text](pexels-pranjall-kumar-8464466.jpg)
