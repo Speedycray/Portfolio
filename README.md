@@ -28,7 +28,7 @@ Photo by
 Photo by 
   <a href="https://unsplash.com/@phienix_han?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Phoenix Han</a> 
   on 
-  <a href="https://unsplash.com/s/photos/pineapple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  <a href="https://unsplash.com/photos/ZS_RypKo9sk">Unsplash</a>
  
 This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
