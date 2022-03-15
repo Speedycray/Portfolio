@@ -30,7 +30,7 @@ Photo by
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
-# [Project 2: Wifi Pineapple](http://youtube.com/dataprofessor)
+# [Project 2: Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
 ![alt text](phoenix-han-ZS_RypKo9sk-unsplash.jpg)
 
 Photo by 
