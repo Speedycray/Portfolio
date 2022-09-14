@@ -8,7 +8,7 @@
 * Associates (Computer Science), *Valencia College*, 2017-2019
 
 # Certifications
-* CompTIA Network+ expected 2022 
+* CompTIA Network+  
 * [Cyber Security Professional](https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ)
 * [CompTIA Security+ 2021-2024](https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png)
 * [Basic Computer Skills 2021](https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA)
