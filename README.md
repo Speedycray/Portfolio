@@ -76,8 +76,8 @@ In this project, I used the WiFi Pineapple for wireless pentesting.
 * Kicked off everyone from the network and reassociated them to the WiFi Pineapple to be able to capture credentials in the captive portal.
 
 
-# [Project 3: Instagram Unfollowers Bot](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
-![alt text](pexels-pranjall-kumar-8464466.jpg)
+# [Project 3: Instagram Unfollowers Bot]
+![alt text](instagram.jpeg)
 
 
 Photo by 
