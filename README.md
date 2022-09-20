@@ -12,6 +12,8 @@
 * [Cyber Security Professional](https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ)
 * [CompTIA Security+ 2021-2024](https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png)
 * [Basic Computer Skills 2021](https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA)
+* <a href="http://example.com" target="_blank">http://example.com</a>
+
 
 # [Project 1: Java's Log4J](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
 ![alt text](pexels-pranjall-kumar-8464466.jpg)
