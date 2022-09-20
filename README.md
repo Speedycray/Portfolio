@@ -12,7 +12,10 @@
 * [Cyber Security Professional](https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ)
 * [CompTIA Security+ 2021-2024](https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png)
 * [Basic Computer Skills 2021](https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA)
-* <a href="http://example.com" target="_blank">http://example.com</a>
+* <a href="[http://example.com](https://raw.githubusercontent.com/Speedycray/portfolio/main//CompTIA%20Network%2B%20ce%20certificate-1.png)" target="_blank">CompTIA Network+ 2022-2025</a>
+* <a href="[http://example.com](https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ)" target="_blank">Cyber Security Professional</a>
+
+
 
 
 # [Project 1: Java's Log4J](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
