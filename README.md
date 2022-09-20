@@ -8,14 +8,17 @@
 * Associates (Computer Science), *Valencia College*, 2017-2019
 
 # Certifications
-* [CompTIA Network+ 2022-2025](https://raw.githubusercontent.com/Speedycray/portfolio/main//CompTIA%20Network%2B%20ce%20certificate-1.png)
-* [Cyber Security Professional](https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ)
-* [CompTIA Security+ 2021-2024](https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png)
-* [Basic Computer Skills 2021](https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA)
 * <a href="https://raw.githubusercontent.com/Speedycray/portfolio/main//CompTIA%20Network%2B%20ce%20certificate-1.png" target="_blank">CompTIA Network+ 2022-2025</a>
 * <a href="https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ" target="_blank">Cyber Security Professional</a>
 * <a href="https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png" target="_blank">CompTIA Security+ 2021-2024</a>
 * <a href="https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA" target="_blank">Basic Computer Skills 2021</a>
+
+<!---
+* [CompTIA Network+ 2022-2025](https://raw.githubusercontent.com/Speedycray/portfolio/main//CompTIA%20Network%2B%20ce%20certificate-1.png)
+* [Cyber Security Professional](https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ)
+* [CompTIA Security+ 2021-2024](https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png)
+* [Basic Computer Skills 2021](https://badgr.com/public/assertions/wYLDfk1PQUSxuRVRaUuFBA)
+-->
 
 
 
