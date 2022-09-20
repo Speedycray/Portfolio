@@ -106,8 +106,8 @@ In this project, I hosted an exploit through a webserver with python3, Set up an
 *  Opened reverse powershell in attacker machine
 *  Implemented [Threatlocker](https://www.threatlocker.com/) security software to stop the reverse shell
 
-# [Project 2: WiFi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
-![alt text](phoenix-han-ZS_RypKo9sk-unsplash.jpg)
+# [Project 4: Sudoku Solver](https://shop.hak5.org/products/wifi-pineapple)
+![alt text](sudoku.jpg)
 
 Photo by 
   <a href="https://unsplash.com/@phienix_han?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Phoenix Han</a> 
