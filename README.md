@@ -25,7 +25,7 @@
 
 
 
-# [Project 1: Java's Log4J - Log4Shell](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
+# [Log4Shell - Java's Log4J](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
 ![alt text](pexels-pranjall-kumar-8464466.jpg)
 
 
@@ -56,7 +56,7 @@ Log4Shell is a vulnerability in the Java's Log4j. I hosted an exploit through a 
 *  Opened reverse powershell in attacker machine
 *  Implemented [Threatlocker](https://www.threatlocker.com/) security software to stop the reverse shell
 
-# [Project 2: WiFi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
+# [WiFi Pineapple](https://shop.hak5.org/products/wifi-pineapple)
 ![alt text](phoenix-han-ZS_RypKo9sk-unsplash.jpg)
 
 Photo by 
@@ -78,7 +78,7 @@ Hak5 sells hacker tools and creates content for pentesters and those in cyber se
 * Kicked off everyone from the network and reassociated them to the WiFi Pineapple to be able to capture credentials in the captive portal.
 
 
-# Project 3: Instagram Unfollowers Bot
+# Instagram Bot
 ![alt text](instagram.jpeg)
 
 Photo by <a href="https://unsplash.com/@alexbemore?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Shatov</a> on <a href="https://unsplash.com/s/photos/instagram?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -96,7 +96,7 @@ From an Instagram page, a user can see a list of "Followers" and "Followings". F
 ### **Results:**
 *  Successfully created a bot that retrieves the usernames of those who do not follow the user back.
 
-# Project 4: Sudoku Solver
+# Sudoku Solver
 ![alt text](sudoku.jpeg)
 
 Photo by 
