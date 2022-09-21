@@ -92,7 +92,7 @@ From an Instagram page, a user can see a list of "Followers" and "Followings". F
 *  Automated web-application testing
 
 ### **Results:**
-*  Successfully created a bot that retrieves the usernames of those who do not follow a user back.
+*  Successfully created a bot that retrieves the usernames of those who do not follow the user back.
 
 # Project 4: Sudoku Solver
 ![alt text](sudoku.jpeg)
