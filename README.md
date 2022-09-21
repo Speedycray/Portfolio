@@ -1,7 +1,5 @@
 # Michael Kuo
-*Cybersecurity Engineer | Aspiring Pentester*
-
- | <a href="https://github.com/Speedycray">Github</a> | <a href="https://www.linkedin.com/in/michaelpkuo/">LinkedIn</a>
+*Cybersecurity Engineer | Aspiring Pentester | <a href="https://github.com/Speedycray">Github</a> | <a href="https://www.linkedin.com/in/michaelpkuo/">LinkedIn</a>*
 
 
 
