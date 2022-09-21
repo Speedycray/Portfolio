@@ -25,7 +25,7 @@
 
 
 
-# [Project 1: Java's Log4J](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
+# [Project 1: Java's Log4J - Log4Shell](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
 ![alt text](pexels-pranjall-kumar-8464466.jpg)
 
 
@@ -37,7 +37,8 @@ Photo by
    Pexels
  </a>
  
-In this project, I hosted an exploit through a webserver with python3, Set up an LDAP listener to point to that server/exploit, and exploited Log4J's JNDI feature within Apache Solr to obtain a reverse powershell from the victim.
+Log4Shell is a vulnerability in the Java's Log4j. I hosted an exploit through a webserver with python3, Set up an LDAP listener to point to that server/exploit, and exploited Log4J's JNDI feature within Apache Solr to obtain a reverse powershell from the victim.
+
 ### **Reources:**
 *  [TryHackMe](https://tryhackme.com/room/solar)
 *  [Installing Apache Solr](https://www.youtube.com/watch?v=Km81Zsd7Dx8)
@@ -63,7 +64,8 @@ Photo by
   on 
   <a href="https://unsplash.com/photos/ZS_RypKo9sk">Unsplash</a>
  
-In this project, I used the WiFi Pineapple for wireless pentesting.
+Hak5 sells hacker tools and creates content for pentesters and those in cyber security. One of their producs is the WiFi Pineapple. This tool allows a penetration tester to audit the wireless network. It also can be used to perform offensive attacks such as deauthentication and dissassocations, man-in-the-middle, evil twin, and more. In this project I was able to use the WiFi Pineapple to set up an evil twin and captive portal. I would perform dissasociation attack on an access point and having clients associate to the evil twin.
+
 ### **Resources:**
 * [WiFi Pineapple Documentation](https://docs.hak5.org/wifi-pineapple/)
 
