@@ -89,29 +89,30 @@ From an Instagram page, a user can see a list of "Followers" and "Followings". F
 *  <a href="https://www.youtube.com/watch?v=d2GBO_QjRlo" target="_blank">Building a simple Instagram bot with Python tutorial</a>
 
 ### **Skills:** 
-*  
+*  Python
+*  Selenium
+*  Automated application testing
 
 ### **Results:**
-*  
+*  Successfully created a bot that retrieves the usernames of those who do not follow a user back.
 
-# [Project 4: Sudoku Solver](https://shop.hak5.org/products/wifi-pineapple)
+# Project 4: Sudoku Solver
 ![alt text](sudoku.jpeg)
 
 Photo by 
-  <a href="https://unsplash.com/@phienix_han?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Phoenix Han</a> 
+  <a href="https://pixabay.com/users/ben_kerckx-69781/">Ben_Kerckx</a> 
   on 
-  <a href="https://unsplash.com/photos/ZS_RypKo9sk">Unsplash</a>
+  <a href="https://pixabay.com/images/id-2040676/">Pixabay</a>
  
-Description
-
-
+As a big fan of sudoku, I spent hours solving these puzzles in my free time. This project caught my attention and I enjoyed working on it.
 
 
 ### **Resources:**
-* 
+* <a href="https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/">Python Sudoku Solver Tutorial with Backtracking</a>
 
 ### **Skills:**
-* 
+* Python
+* Backtracking
 
 ### **Result:**
 * 
