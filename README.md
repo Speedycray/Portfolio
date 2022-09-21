@@ -76,19 +76,15 @@ In this project, I used the WiFi Pineapple for wireless pentesting.
 * Kicked off everyone from the network and reassociated them to the WiFi Pineapple to be able to capture credentials in the captive portal.
 
 
-# [Project 3: Instagram Unfollowers Bot]
+# Project 3: Instagram Unfollowers Bot
 ![alt text](instagram.jpeg)
 
 
-Photo by 
- <a href="https://www.pexels.com/@pranjall-kumar-150768">
-   Photo by Pranjall Kumar
- </a> on 
- <a href="https://www.pexels.com/photo/coffee-beans-in-white-ceramic-mug-8464466/">
-   Pexels
- </a>
- 
-In this project, I hosted an exploit through a webserver with python3, Set up an LDAP listener to point to that server/exploit, and exploited Log4J's JNDI feature within Apache Solr to obtain a reverse powershell from the victim.
+Photo by <a href="https://unsplash.com/@alexbemore?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Shatov</a> on <a href="https://unsplash.com/s/photos/instagram?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+From an Instagram page, a user can see a list of "Followers" and "Followings". From the "Followers" list, the user can also see who they do not follow back. However, there is not a way to see who the user follows and is not following back. I created a bot using Python and Selenium to fix this problem. Selenium is used for automated web-based application testing which was used to open and navigate through instagram. It would create a list of usernames from the "Followers" listing and another list from the "Following" listing. To get the list of usernames that do not follow the user back, both lists are compared to each other. Whatever is in the "Following" listing but not the "Followers" listing, would be the users that do not follow the user back.
+
 ### **Reources:**
 *  [TryHackMe](https://tryhackme.com/room/solar)
 *  [Installing Apache Solr](https://www.youtube.com/watch?v=Km81Zsd7Dx8)
