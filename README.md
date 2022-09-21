@@ -83,24 +83,16 @@ In this project, I used the WiFi Pineapple for wireless pentesting.
 Photo by <a href="https://unsplash.com/@alexbemore?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Shatov</a> on <a href="https://unsplash.com/s/photos/instagram?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-From an Instagram page, a user can see a list of "Followers" and "Followings". From the "Followers" list, the user can also see who they do not follow back. However, there is not a way to see who the user follows and is not following back. I created a bot using Python and Selenium to fix this problem. Selenium is used for automated web-based application testing which was used to open and navigate through instagram. It would create a list of usernames from the "Followers" listing and another list from the "Following" listing. To get the list of usernames that do not follow the user back, both lists are compared to each other. Whatever is in the "Following" listing but not the "Followers" listing, would be the users that do not follow the user back.
+From an Instagram page, a user can see a list of "Followers" and "Followings". From the "Followers" list, the user can also see who they do not follow back. However, there is not a way for the user to know who does not follow the user back. I created a bot using Python and Selenium to fix this problem. Selenium is used for automated web-based application testing which was used to open and navigate through instagram. It would create a list of usernames from the "Followers" listing and another list from the "Following" listing. To get the list of usernames that do not follow the user back, both lists are compared to each other. Whatever is in the "Following" listing but not the "Followers" listing, would be the users that do not follow the user back.
 
 ### **Reources:**
-*  [TryHackMe](https://tryhackme.com/room/solar)
-*  [Installing Apache Solr](https://www.youtube.com/watch?v=Km81Zsd7Dx8)
-*  [John Hammond Log4J video](https://www.youtube.com/watch?v=7qoPDq41xhQ&t=967s)
+*  <a href="https://www.youtube.com/watch?v=d2GBO_QjRlo" target="_blank">Building a simple Instagram bot with Python tutorial</a>
 
 ### **Skills:** 
-*  Set up attacker (Kali) and (Windows) victim virtual machines
-*  Installed older version of Java
-*  Obfuscated and utilized reverse powershell one-liner
-*  Installed Java builder Maven
-*  Set up Netcat listener for reverse shell session
+*  
 
 ### **Results:**
-*  Able to open any application through victim's command prompt
-*  Opened reverse powershell in attacker machine
-*  Implemented [Threatlocker](https://www.threatlocker.com/) security software to stop the reverse shell
+*  
 
 # [Project 4: Sudoku Solver](https://shop.hak5.org/products/wifi-pineapple)
 ![alt text](sudoku.jpeg)
@@ -110,17 +102,19 @@ Photo by
   on 
   <a href="https://unsplash.com/photos/ZS_RypKo9sk">Unsplash</a>
  
-In this project, I used the WiFi Pineapple for wireless pentesting.
+Description
+
+
+
+
 ### **Resources:**
-* [WiFi Pineapple Documentation](https://docs.hak5.org/wifi-pineapple/)
+* 
 
 ### **Skills:**
-* Set up a WiFi Pineapple
-* Learned about deauthentication and dissassociation
-* Learned about associating a client using PineAP
+* 
 
 ### **Result:**
-* Kicked off everyone from the network and reassociated them to the WiFi Pineapple to be able to capture credentials in the captive portal.
+* 
 
 <!---
 
