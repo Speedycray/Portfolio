@@ -1,5 +1,6 @@
 # Michael Kuo
 *Cybersecurity Engineer | Aspiring Pentester*
+
 <a href="https://github.com/Speedycray">Github</a>
 
 
@@ -121,7 +122,7 @@ As a big fan of sudoku, I spent hours solving these puzzles in my free time. Thi
 ### **Result:**
 * successfully created a python script that solves a sudoku board using backtracking.
 
-<a href="https://github.com/Speedycray/InstagramBot">Github Link</a>
+<a href="https://github.com/Speedycray/Sudoku-Solver">Github Link</a>
 
 
 <!---
