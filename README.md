@@ -79,9 +79,7 @@ In this project, I used the WiFi Pineapple for wireless pentesting.
 # Project 3: Instagram Unfollowers Bot
 ![alt text](instagram.jpeg)
 
-
 Photo by <a href="https://unsplash.com/@alexbemore?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Shatov</a> on <a href="https://unsplash.com/s/photos/instagram?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 
 From an Instagram page, a user can see a list of "Followers" and "Followings". From the "Followers" list, the user can also see who they do not follow back. However, there is not a way for the user to know who does not follow the user back. I created a bot using Python and Selenium to fix this problem. Selenium is used for automated web-based application testing which was used to open and navigate through instagram. It would create a list of usernames from the "Followers" listing and another list from the "Following" listing. To get the list of usernames that do not follow the user back, both lists are compared to each other. Whatever is in the "Following" listing but not the "Followers" listing, would be the users that do not follow the user back.
 
@@ -91,7 +89,7 @@ From an Instagram page, a user can see a list of "Followers" and "Followings". F
 ### **Skills:** 
 *  Python
 *  Selenium
-*  Automated application testing
+*  Automated web-application testing
 
 ### **Results:**
 *  Successfully created a bot that retrieves the usernames of those who do not follow a user back.
@@ -104,8 +102,7 @@ Photo by
   on 
   <a href="https://pixabay.com/images/id-2040676/">Pixabay</a>
  
-As a big fan of sudoku, I spent hours solving these puzzles in my free time. This project caught my attention and I enjoyed working on it.
-
+As a big fan of sudoku, I spent hours solving these puzzles in my free time. This project caught my attention and I enjoyed working on it. Following the tutorial, I used Python to write some functions that checks which cells on the sudoku board are empty, another to check which numbers are valid in the empty cell, and another for backtracking if the board becomes invalid.
 
 ### **Resources:**
 * <a href="https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/">Python Sudoku Solver Tutorial with Backtracking</a>
@@ -115,7 +112,7 @@ As a big fan of sudoku, I spent hours solving these puzzles in my free time. Thi
 * Backtracking
 
 ### **Result:**
-* 
+* successfully created a python script that solves a sudoku board using backtracking.
 
 <!---
 
