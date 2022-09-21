@@ -1,5 +1,7 @@
 # Michael Kuo
 *Cybersecurity Engineer | Aspiring Pentester*
+<a href="https://github.com/Speedycray">Github</a>
+
 
 # Education
 * Cyber Defense Professional Certificate, *University of Central Florida*, 2021-2022
@@ -96,6 +98,9 @@ From an Instagram page, a user can see a list of "Followers" and "Followings". F
 ### **Results:**
 *  Successfully created a bot that retrieves the usernames of those who do not follow the user back.
 
+<a href="https://github.com/Speedycray/InstagramBot">Github Link</a>
+
+
 # Sudoku Solver
 ![alt text](sudoku.jpeg)
 
@@ -115,6 +120,9 @@ As a big fan of sudoku, I spent hours solving these puzzles in my free time. Thi
 
 ### **Result:**
 * successfully created a python script that solves a sudoku board using backtracking.
+
+<a href="https://github.com/Speedycray/InstagramBot">Github Link</a>
+
 
 <!---
 
