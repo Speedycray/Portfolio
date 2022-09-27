@@ -27,7 +27,38 @@
 
 
 
+<!---
+# [Evilginx2](https://github.com/kgretzky/evilginx2)
+![alt text](evilginx.png)
 
+
+Photo by 
+ <a href="https://www.pexels.com/@pranjall-kumar-150768">
+   Photo by Pranjall Kumar
+ </a> on 
+ <a href="https://www.pexels.com/photo/coffee-beans-in-white-ceramic-mug-8464466/">
+   Pexels
+ </a>
+ 
+Log4Shell is a vulnerability in the Java's Log4j. I hosted an exploit through a webserver with python3, Set up an LDAP listener to point to that server/exploit, and exploited Log4J's JNDI feature within Apache Solr to obtain a reverse powershell from the victim.
+
+### **Reources:**
+*  [TryHackMe](https://tryhackme.com/room/solar)
+*  [Installing Apache Solr](https://www.youtube.com/watch?v=Km81Zsd7Dx8)
+*  [John Hammond Log4J video](https://www.youtube.com/watch?v=7qoPDq41xhQ&t=967s)
+
+### **Skills:** 
+*  Set up attacker (Kali) and (Windows) victim virtual machines
+*  Installed older version of Java
+*  Obfuscated and utilized reverse powershell one-liner
+*  Installed Java builder Maven
+*  Set up Netcat listener for reverse shell session
+
+### **Results:**
+*  Able to open any application through victim's command prompt
+*  Opened reverse powershell in attacker machine
+*  Implemented [Threatlocker](https://www.threatlocker.com/) security software to stop the reverse shell
+-->
 
 # [Log4Shell - Java's Log4J](https://nvd.nist.gov/vuln/detail/CVE-2021-44228)
 ![alt text](pexels-pranjall-kumar-8464466.jpg)
