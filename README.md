@@ -39,6 +39,7 @@ Using Evilginx2 I was able to familiarize myself with this man-in-the-middle fra
 ### **Skills:** 
 *  DigitalOcean
 *  Man-in-the-Middle
+*  Phishing
 
 ### **Results:**
 *  Hosted fake Instagram Website domain which would redirect users to the real Instagram after logging in.
