@@ -12,6 +12,7 @@
 * Associates (Computer Science), *Valencia College*, 2017-2019
 
 # Certifications
+* <a href="https://www.credly.com/badges/652d7951-fd54-41da-935c-ab0267109e68/public_url" target="_blank">AWS Certified Cloud Practitioner 2023-2026</a>
 * <a href="https://raw.githubusercontent.com/Speedycray/portfolio/main//CompTIA%20Network%2B%20ce%20certificate-1.png" target="_blank">CompTIA Network+ 2022-2025</a>
 * <a href="https://badgr.com/public/assertions/W6z9tAapSb2JPo61Nl0NIQ" target="_blank">Cyber Security Professional</a>
 * <a href="https://raw.githubusercontent.com/Speedycray/portfolio/main/Security%2B.png" target="_blank">CompTIA Security+ 2021-2024</a>
